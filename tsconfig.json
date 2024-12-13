@@ -106,6 +106,6 @@
       "*": ["node_modules/*"]
     }
   },
-  "include": ["node_src/**/*"],
+  "include": ["node_src/**/*", "public/**/*"],
   "exclude": ["node_modules"]
 }
