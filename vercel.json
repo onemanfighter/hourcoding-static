@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "includeFiles": ["node_src/public/*"],
   "builds": [
     {
       "src": "node_src/server.ts",
