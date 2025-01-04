@@ -1,0 +1,3008 @@
+[
+  {
+    "id": 1,
+    "cheatsheet_key": "analytics_js",
+    "title": "Analytics.js",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/analytics_js.md",
+    "last_updated": "",
+    "group_id": 0,
+    "group_name": "Analytics"
+  },
+  {
+    "id": 2,
+    "cheatsheet_key": "analytics",
+    "title": "Analytics",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/analytics.md",
+    "last_updated": "",
+    "group_id": 0,
+    "group_name": "Analytics"
+  },
+  {
+    "id": 3,
+    "cheatsheet_key": "mixpanel",
+    "title": "Mixpanel",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mixpanel.md",
+    "last_updated": "",
+    "group_id": 0,
+    "group_name": "Analytics"
+  },
+  {
+    "id": 4,
+    "cheatsheet_key": "ansible_examples",
+    "title": "Ansible Examples",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansible-examples.md",
+    "last_updated": "",
+    "group_id": 1,
+    "group_name": "Ansible"
+  },
+  {
+    "id": 5,
+    "cheatsheet_key": "ansible_guide",
+    "title": "Ansible Guide",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansible-guide.md",
+    "last_updated": "",
+    "group_id": 1,
+    "group_name": "Ansible"
+  },
+  {
+    "id": 6,
+    "cheatsheet_key": "ansible_modules",
+    "title": "Ansible Module",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansible-modules.md",
+    "last_updated": "",
+    "group_id": 1,
+    "group_name": "Ansible"
+  },
+  {
+    "id": 7,
+    "cheatsheet_key": "ansible_roles",
+    "title": "Ansible Roles",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansible-roles.md",
+    "last_updated": "",
+    "group_id": 1,
+    "group_name": "Ansible"
+  },
+  {
+    "id": 8,
+    "cheatsheet_key": "ansible",
+    "title": "Ansible",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansible.md",
+    "last_updated": "",
+    "group_id": 1,
+    "group_name": "Ansible"
+  },
+  {
+    "id": 10,
+    "cheatsheet_key": "atom",
+    "title": "Atom",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/atom.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 11,
+    "cheatsheet_key": "editor-config",
+    "title": "Editor Config",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/editorconfig.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 12,
+    "cheatsheet_key": "flashlight",
+    "title": "Flashlight",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/flashlight.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 13,
+    "cheatsheet_key": "inkscape",
+    "title": "InkScape",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/inkscape.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 14,
+    "cheatsheet_key": "org-mode",
+    "title": "Org-mode",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/org-mode.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 15,
+    "cheatsheet_key": "sketch",
+    "title": "Sketch",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sketch.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 16,
+    "cheatsheet_key": "spacemacs",
+    "title": "SpaceMacs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/spacemacs.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 17,
+    "cheatsheet_key": "sublime-text",
+    "title": "Sublime Text",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sublime-text.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 18,
+    "cheatsheet_key": "vscode",
+    "title": "VS Code",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vscode.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 19,
+    "cheatsheet_key": "weechat",
+    "title": "Weechat",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/weechat.md",
+    "last_updated": "",
+    "group_id": 2,
+    "group_name": "Application"
+  },
+  {
+    "id": 20,
+    "cheatsheet_key": "c_preprocessor",
+    "title": "C Preprocessor",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/c_preprocessor.md",
+    "last_updated": "",
+    "group_id": 3,
+    "group_name": "C Like"
+  },
+  {
+    "id": 21,
+    "cheatsheet_key": "csharp7",
+    "title": "C#",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/csharp7.md",
+    "last_updated": "",
+    "group_id": 3,
+    "group_name": "C Like"
+  },
+  {
+    "id": 22,
+    "cheatsheet_key": "go",
+    "title": "Go",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/go.md",
+    "last_updated": "",
+    "group_id": 3,
+    "group_name": "C Like"
+  },
+  {
+    "id": 23,
+    "cheatsheet_key": "adb",
+    "title": "ADB",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/adb.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 24,
+    "cheatsheet_key": "animated_gif",
+    "title": "Animated Gif",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/animated_gif.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 25,
+    "cheatsheet_key": "ansi",
+    "title": "ANSI",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ansi.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 26,
+    "cheatsheet_key": "bash",
+    "title": "Bash",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bash.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 27,
+    "cheatsheet_key": "clip",
+    "title": "Clip",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/clip.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 28,
+    "cheatsheet_key": "composer",
+    "title": "Composer",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/composer.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 29,
+    "cheatsheet_key": "cron",
+    "title": "Cron",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/cron.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 30,
+    "cheatsheet_key": "curl",
+    "title": "Curl",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/curl.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 31,
+    "cheatsheet_key": "emacs",
+    "title": "Emacs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/emacs.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 32,
+    "cheatsheet_key": "ffmpeg",
+    "title": "FFmpeg",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ffmpeg.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 33,
+    "cheatsheet_key": "find",
+    "title": "Find",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/find.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 34,
+    "cheatsheet_key": "fish-shell",
+    "title": "Fish Shell",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/fish-shell.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 35,
+    "cheatsheet_key": "gnupg",
+    "title": "GnuPG",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/gnupg.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 36,
+    "cheatsheet_key": "grep",
+    "title": "Grep",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/grep.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 37,
+    "cheatsheet_key": "homebrew",
+    "title": "Homebrew",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/homebrew.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 38,
+    "cheatsheet_key": "httpie",
+    "title": "Httpie",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/httpie.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 39,
+    "cheatsheet_key": "makefile",
+    "title": "Makefile",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/makefile.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 40,
+    "cheatsheet_key": "man",
+    "title": "Man",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/man.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 41,
+    "cheatsheet_key": "ncftp",
+    "title": "NcFTP",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ncftp.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 42,
+    "cheatsheet_key": "pass",
+    "title": "Pass",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/pass.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 43,
+    "cheatsheet_key": "pm2",
+    "title": "PM2",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/pm2.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 44,
+    "cheatsheet_key": "rename",
+    "title": "Rename",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rename.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 45,
+    "cheatsheet_key": "rsync",
+    "title": "Rsync",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rsync.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 46,
+    "cheatsheet_key": "rtorrent",
+    "title": "RTorrent",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rtorrent.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 47,
+    "cheatsheet_key": "scp",
+    "title": "SCP",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/scp.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 48,
+    "cheatsheet_key": "screen",
+    "title": "Screen",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/screen.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 49,
+    "cheatsheet_key": "sed",
+    "title": "Sed",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sed.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 50,
+    "cheatsheet_key": "sh-pipes",
+    "title": "Sh Pipes",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sh-pipes.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 51,
+    "cheatsheet_key": "sh",
+    "title": "SH Shell",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sh.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 52,
+    "cheatsheet_key": "tar",
+    "title": "Tar",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tar.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 53,
+    "cheatsheet_key": "tmux",
+    "title": "Tmux",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tmux.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 54,
+    "cheatsheet_key": "top",
+    "title": "Top",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/top.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 55,
+    "cheatsheet_key": "watchexec",
+    "title": "WatchExec",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/watchexec.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 56,
+    "cheatsheet_key": "zsh",
+    "title": "Zsh",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/zsh.md",
+    "last_updated": "",
+    "group_id": 4,
+    "group_name": "CLI"
+  },
+  {
+    "id": 57,
+    "cheatsheet_key": "bootstrap",
+    "title": "Bootstrap",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bootstrap.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 58,
+    "cheatsheet_key": "bulma",
+    "title": "Bulma",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bulma.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 59,
+    "cheatsheet_key": "css-antialias",
+    "title": "CSS AntiAlias",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css-antialias.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 60,
+    "cheatsheet_key": "css-grid",
+    "title": "CSS Grid",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css-grid.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 61,
+    "cheatsheet_key": "css-flexbox",
+    "title": "CSS Flexbox",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css-flexbox.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 62,
+    "cheatsheet_key": "css-system-font-stack",
+    "title": "CSS Sytem font stack",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css-system-font-stack.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 63,
+    "cheatsheet_key": "css-tricks",
+    "title": "CSS Tricks",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css-tricks.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 64,
+    "cheatsheet_key": "css",
+    "title": "CSS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/css.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 65,
+    "cheatsheet_key": "cssnext",
+    "title": "CSS Next",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/cssnext.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 66,
+    "cheatsheet_key": "sass",
+    "title": "SASS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sass.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 67,
+    "cheatsheet_key": "stylus",
+    "title": "Stylus",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/stylus.md",
+    "last_updated": "",
+    "group_id": 5,
+    "group_name": "CSS"
+  },
+  {
+    "id": 68,
+    "cheatsheet_key": "knex",
+    "title": "Knex",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/knex.md",
+    "last_updated": "",
+    "group_id": 6,
+    "group_name": "Database"
+  },
+  {
+    "id": 69,
+    "cheatsheet_key": "mysql",
+    "title": "MySQL",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mysql.md",
+    "last_updated": "",
+    "group_id": 6,
+    "group_name": "Database"
+  },
+  {
+    "id": 70,
+    "cheatsheet_key": "postgresql-json",
+    "title": "PostgreSQL JSON",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/postgresql-json.md",
+    "last_updated": "",
+    "group_id": 6,
+    "group_name": "Database"
+  },
+  {
+    "id": 71,
+    "cheatsheet_key": "postgresql",
+    "title": "PostgreSQL",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/postgresql.md",
+    "last_updated": "",
+    "group_id": 6,
+    "group_name": "Database"
+  },
+  {
+    "id": 72,
+    "cheatsheet_key": "sql-join",
+    "title": "SQL Join",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sql-join.md",
+    "last_updated": "",
+    "group_id": 6,
+    "group_name": "Database"
+  },
+  {
+    "id": "73",
+    "cheatsheet_key": "awscli",
+    "title": "AWS CLI",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/awscli.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "74",
+    "cheatsheet_key": "chef",
+    "title": "Chef",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/chef.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "75",
+    "cheatsheet_key": "circle",
+    "title": "Circle CI",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/circle.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "76",
+    "cheatsheet_key": "deis",
+    "title": "Deis",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/deis.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "77",
+    "cheatsheet_key": "docker",
+    "title": "Docker",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/docker.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "78",
+    "cheatsheet_key": "docker-compose",
+    "title": "Docker Compose",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/docker-compose.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "79",
+    "cheatsheet_key": "dockerfile",
+    "title": "Docker File",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/dockerfile.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "80",
+    "cheatsheet_key": "flynn",
+    "title": "Flynn",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/flynn.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "81",
+    "cheatsheet_key": "heroku",
+    "title": "Heroku",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/heroku.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "82",
+    "cheatsheet_key": "travis",
+    "title": "Travis CI",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/travis.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "83",
+    "cheatsheet_key": "vagrant",
+    "title": "Vagrant",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vagrant.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "84",
+    "cheatsheet_key": "vagrantfile",
+    "title": "Vagrantfile",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vagrantfile.md",
+    "last_updated": "",
+    "group_id": 7,
+    "group_name": "DevOps"
+  },
+  {
+    "id": "85",
+    "cheatsheet_key": "elixir-metaprogramming",
+    "title": "Elixir MetaProgramming",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/elixir-metaprogramming.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "86",
+    "cheatsheet_key": "elixir",
+    "title": "Elixir",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/elixir.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "87",
+    "cheatsheet_key": "ets",
+    "title": "ETS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ets.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "88",
+    "cheatsheet_key": "exunit",
+    "title": "EXUnit",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/exunit.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "89",
+    "cheatsheet_key": "phoenix-conn",
+    "title": "Phoenix conn",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-conn.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "90",
+    "cheatsheet_key": "phoenix-ecto",
+    "title": "Phoenix Ecto",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-ecto.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "91",
+    "cheatsheet_key": "phoenix-ecto@1.2",
+    "title": "Phoenix Ecto 1.2",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-ecto@1.2.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "92",
+    "cheatsheet_key": "phoenix-ecto@1.3",
+    "title": "Phoenix Ecto 1.3",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-ecto@1.3.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "93",
+    "cheatsheet_key": "phoenix-migrations",
+    "title": "Phoenix Migration",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-migrations.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "94",
+    "cheatsheet_key": "phoenix-routing",
+    "title": "Phoenix Routing",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix-routing.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "95",
+    "cheatsheet_key": "phoenix",
+    "title": "Phoenix",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": "96",
+    "cheatsheet_key": "phoenix@1.2",
+    "title": "Phoenix 1.2",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phoenix@1.2.md",
+    "last_updated": "",
+    "group_id": 8,
+    "group_name": "Elixir"
+  },
+  {
+    "id": 97,
+    "cheatsheet_key": "general_fitness",
+    "title": "General Fitness",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/general.md",
+    "last_updated": "",
+    "group_id": 9,
+    "group_name": "Fitness"
+  },
+  {
+    "id": 98,
+    "cheatsheet_key": "micro_nutrients",
+    "title": "Micro Nutrients",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/micronutrients.md",
+    "last_updated": "",
+    "group_id": 9,
+    "group_name": "Fitness"
+  },
+  {
+    "id": 99,
+    "cheatsheet_key": "phat",
+    "title": "Phat",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/phat.md",
+    "last_updated": "",
+    "group_id": 9,
+    "group_name": "Fitness"
+  },
+  {
+    "id": 100,
+    "cheatsheet_key": "git-branch",
+    "title": "Git Branch",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-branch.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 101,
+    "cheatsheet_key": "git-extras",
+    "title": "Git Extras",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-extras.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 102,
+    "cheatsheet_key": "git-log",
+    "title": "Git Log",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-log.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 103,
+    "cheatsheet_key": "git-log-format",
+    "title": "Git Log Format",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-log-format.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 104,
+    "cheatsheet_key": "git-revisions",
+    "title": "Git Revision",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-revisions.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 105,
+    "cheatsheet_key": "git-tricks",
+    "title": "Git Tricks",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/git-tricks.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 106,
+    "cheatsheet_key": "tig",
+    "title": "TIG",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tig.md",
+    "last_updated": "",
+    "group_id": 10,
+    "group_name": "Git"
+  },
+  {
+    "id": 107,
+    "cheatsheet_key": "appcache",
+    "title": "AppCache",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/appcache.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 108,
+    "cheatsheet_key": "applinks",
+    "title": "AppLinks",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/applinks.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 109,
+    "cheatsheet_key": "html-email",
+    "title": "HTML Email",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html-email.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 110,
+    "cheatsheet_key": "html-input",
+    "title": "HTML input",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html-input.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 111,
+    "cheatsheet_key": "html-meta",
+    "title": "HTML Meta",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html-meta.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 112,
+    "cheatsheet_key": "html-microformats",
+    "title": "HTML Microformats",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html-microformats.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 113,
+    "cheatsheet_key": "html-share",
+    "title": "HTML Share",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html-share.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 114,
+    "cheatsheet_key": "html",
+    "title": "HTML",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/html.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 115,
+    "cheatsheet_key": "ie_bugs",
+    "title": "IE bugs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ie_bugs.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 116,
+    "cheatsheet_key": "ie",
+    "title": "IE",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ie.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 117,
+    "cheatsheet_key": "layout-thrashing",
+    "title": "Layout Thrashing",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/layout-thrashing.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 118,
+    "cheatsheet_key": "xpath",
+    "title": "Xpath",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/xpath.md",
+    "last_updated": "",
+    "group_id": 11,
+    "group_name": "HTML"
+  },
+  {
+    "id": 119,
+    "cheatsheet_key": "kotlin",
+    "title": "Kotlin",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/kotlin.md",
+    "last_updated": "",
+    "group_id": 12,
+    "group_name": "Java JVM"
+  },
+  {
+    "id": 120,
+    "cheatsheet_key": "canvas",
+    "title": "Canvas",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/canvas.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 121,
+    "cheatsheet_key": "dom-range",
+    "title": "Dom range",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/dom-range.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 122,
+    "cheatsheet_key": "dom-selection",
+    "title": "DOM selection",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/dom-selection.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 123,
+    "cheatsheet_key": "es6",
+    "title": "ES6",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/es6.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 124,
+    "cheatsheet_key": "js-appcache",
+    "title": "JS appCache",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-appcache.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 125,
+    "cheatsheet_key": "js-array",
+    "title": "JS array",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-array.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 126,
+    "cheatsheet_key": "js-fetch",
+    "title": "JS fetch",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-fetch.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 127,
+    "cheatsheet_key": "js-lazy",
+    "title": "JS Lazy",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-lazy.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 128,
+    "cheatsheet_key": "js-model",
+    "title": "JS Model",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-model.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 129,
+    "cheatsheet_key": "js-speech",
+    "title": "JS Speech",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-speech.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 130,
+    "cheatsheet_key": "npm",
+    "title": "NPM",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/npm.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 131,
+    "cheatsheet_key": "promise",
+    "title": "Promise",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/promise.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 132,
+    "cheatsheet_key": "vue",
+    "title": "Vue",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vue.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 133,
+    "cheatsheet_key": "vue@1.0.28",
+    "title": "Vue 1.0.28",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vue@1.0.28.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 134,
+    "cheatsheet_key": "web-workers",
+    "title": "Web Workers",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/web-workers.md",
+    "last_updated": "",
+    "group_id": 13,
+    "group_name": "JavaScript"
+  },
+  {
+    "id": 135,
+    "cheatsheet_key": "jekyll",
+    "title": "Jekyll",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jekyll.md",
+    "last_updated": "",
+    "group_id": 14,
+    "group_name": "Jekyll"
+  },
+  {
+    "id": 136,
+    "cheatsheet_key": "jekyll-github",
+    "title": "Jekyll GitHub",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jekyll-github.md",
+    "last_updated": "",
+    "group_id": 14,
+    "group_name": "Jekyll"
+  },
+  {
+    "id": 137,
+    "cheatsheet_key": "gh-pages",
+    "title": "GH Pages",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/gh-pages.md",
+    "last_updated": "",
+    "group_id": 14,
+    "group_name": "Jekyll"
+  },
+  {
+    "id": 138,
+    "cheatsheet_key": "101",
+    "title": "101",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/101.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 139,
+    "cheatsheet_key": "angularjs",
+    "title": "Angular JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/angularjs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 140,
+    "cheatsheet_key": "backbone",
+    "title": "Backbone",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/backbone.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 141,
+    "cheatsheet_key": "blessed",
+    "title": "Blessed",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/blessed.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 142,
+    "cheatsheet_key": "bluebird",
+    "title": "Bluebird",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bluebird.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 143,
+    "cheatsheet_key": "bookshelf",
+    "title": "Bookshelf",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bookshelf.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 144,
+    "cheatsheet_key": "bower-api",
+    "title": "Bower Api",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bower-api.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 145,
+    "cheatsheet_key": "browser-sync",
+    "title": "Brower Sync",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/browser-sync.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 146,
+    "cheatsheet_key": "browserify",
+    "title": "Browserify",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/browserify.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 147,
+    "cheatsheet_key": "camp",
+    "title": "Camp",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/camp.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 148,
+    "cheatsheet_key": "chai",
+    "title": "Chai",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/chai.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 149,
+    "cheatsheet_key": "co",
+    "title": "CO",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/co.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 150,
+    "cheatsheet_key": "commander.js",
+    "title": "Commander JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/commander.js.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 151,
+    "cheatsheet_key": "deku",
+    "title": "Deku",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/deku.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 152,
+    "cheatsheet_key": "deku@1",
+    "title": "Deku @1",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/deku@1.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 153,
+    "cheatsheet_key": "ember",
+    "title": "Ember",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ember.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 154,
+    "cheatsheet_key": "expectjs",
+    "title": "Expect JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/expectjs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 155,
+    "cheatsheet_key": "express",
+    "title": "Express",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/express.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 156,
+    "cheatsheet_key": "fastify",
+    "title": "Fastify",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/fastify.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 157,
+    "cheatsheet_key": "flow",
+    "title": "Flow",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/flow.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 158,
+    "cheatsheet_key": "gremlins",
+    "title": "Gremlins",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/gremlins.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 159,
+    "cheatsheet_key": "gulp",
+    "title": "Gulp",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/gulp.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 160,
+    "cheatsheet_key": "handlebars.js",
+    "title": "Handlebars JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/handlebars.js.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 161,
+    "cheatsheet_key": "harvey.js",
+    "title": "Harvey JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/harvey.js.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 162,
+    "cheatsheet_key": "immutable.js",
+    "title": "Immutable JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/immutable.js.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 163,
+    "cheatsheet_key": "jade",
+    "title": "Jade",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jade.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 164,
+    "cheatsheet_key": "jasmine",
+    "title": "Jasmine",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jasmine.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 165,
+    "cheatsheet_key": "jest",
+    "title": "Jest",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jest.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 166,
+    "cheatsheet_key": "jquery",
+    "title": "Jquery",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jquery.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 167,
+    "cheatsheet_key": "jquery-cdn",
+    "title": "Jquery CDN",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jquery-cdn.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 168,
+    "cheatsheet_key": "js_model_library",
+    "title": "JS Model Library",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/js-model_lib.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 169,
+    "cheatsheet_key": "jscoverage",
+    "title": "JS Coverage",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jscoverage.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 170,
+    "cheatsheet_key": "jshint",
+    "title": "JS Hint",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jshint.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 171,
+    "cheatsheet_key": "koa",
+    "title": "Koa",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/koa.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 172,
+    "cheatsheet_key": "lodash",
+    "title": "Lodash",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/lodash.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 173,
+    "cheatsheet_key": "meow",
+    "title": "Meow",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/meow.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 174,
+    "cheatsheet_key": "middleman",
+    "title": "Middleman",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/middleman.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 175,
+    "cheatsheet_key": "minimist",
+    "title": "Minimist",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/minimist.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 176,
+    "cheatsheet_key": "mobx",
+    "title": "Mobx",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mobx.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 177,
+    "cheatsheet_key": "mocha-blanket",
+    "title": "Mocha Blanket",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mocha-blanket.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 178,
+    "cheatsheet_key": "mocha-html",
+    "title": "Mocha Html",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mocha-html.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 179,
+    "cheatsheet_key": "mocha-tdd",
+    "title": "Mocha TDD",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mocha-tdd.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 180,
+    "cheatsheet_key": "mocha",
+    "title": "Mocha",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mocha.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 181,
+    "cheatsheet_key": "modernizr",
+    "title": "Modernizr",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/modernizr.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 182,
+    "cheatsheet_key": "moment",
+    "title": "Moment JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/moment.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 183,
+    "cheatsheet_key": "nock",
+    "title": "Nock",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nock.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 184,
+    "cheatsheet_key": "nopt",
+    "title": "Nopt",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nopt.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 185,
+    "cheatsheet_key": "parsimmon",
+    "title": "Parsimmon",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/parsimmon.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 186,
+    "cheatsheet_key": "parsley",
+    "title": "Parsley",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/parsley.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 187,
+    "cheatsheet_key": "polyfill.io",
+    "title": "PollyFill.io",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/polyfill.io.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 188,
+    "cheatsheet_key": "pug",
+    "title": "Pug",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/pug.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 189,
+    "cheatsheet_key": "qjs",
+    "title": "Q Js",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/qjs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 190,
+    "cheatsheet_key": "qunit",
+    "title": "Q Unit",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/qunit.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 191,
+    "cheatsheet_key": "ractive",
+    "title": "Ractive",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ractive.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 192,
+    "cheatsheet_key": "riot",
+    "title": "Riot",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/riot.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 193,
+    "cheatsheet_key": "rollup",
+    "title": "Rollup",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rollup.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 194,
+    "cheatsheet_key": "sequelize",
+    "title": "Sequelize",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sequelize.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 195,
+    "cheatsheet_key": "shelljs",
+    "title": "ShellJs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/shelljs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 196,
+    "cheatsheet_key": "sinon-chai",
+    "title": "Sinon Chai",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sinon-chai.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 197,
+    "cheatsheet_key": "sinon",
+    "title": "Sinon JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sinon.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 198,
+    "cheatsheet_key": "spine",
+    "title": "Spine",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/spine.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 199,
+    "cheatsheet_key": "stencil",
+    "title": "Stencil",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/stencil.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 200,
+    "cheatsheet_key": "superagent",
+    "title": "Superagent",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/superagent.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 201,
+    "cheatsheet_key": "tape",
+    "title": "Tape",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tape.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 202,
+    "cheatsheet_key": "umdjs",
+    "title": "UMD JS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/umdjs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 203,
+    "cheatsheet_key": "underscore-string",
+    "title": "Underscore String",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/underscore-string.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 204,
+    "cheatsheet_key": "virtual-dom",
+    "title": "Virtual Dom",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/virtual-dom.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 205,
+    "cheatsheet_key": "vows",
+    "title": "Vows",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vows.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 206,
+    "cheatsheet_key": "webpack",
+    "title": "Webpack",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/webpack.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 207,
+    "cheatsheet_key": "weinre",
+    "title": "Weinre",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/weinre.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 208,
+    "cheatsheet_key": "yargs",
+    "title": "Yargs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/yargs.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 209,
+    "cheatsheet_key": "yarn",
+    "title": "Yarn",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/yarn.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 210,
+    "cheatsheet_key": "zombie",
+    "title": "Zombie",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/zombie.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 211,
+    "cheatsheet_key": "typescript",
+    "title": "Typescript",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/typescript.md",
+    "last_updated": "",
+    "group_id": 15,
+    "group_name": "JS libraries"
+  },
+  {
+    "id": 212,
+    "cheatsheet_key": "hledger",
+    "title": "HLedger",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/hledger.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 213,
+    "cheatsheet_key": "ledger-csv",
+    "title": "Ledger CSV",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger-csv.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 214,
+    "cheatsheet_key": "ledger-examples",
+    "title": "Ledger Examples",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger-examples.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 215,
+    "cheatsheet_key": "ledger-format",
+    "title": "Ledger Format",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger-format.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 216,
+    "cheatsheet_key": "ledger-periods",
+    "title": "Ledger Periods",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger-periods.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 217,
+    "cheatsheet_key": "ledger-query",
+    "title": "Ledger Query",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger-query.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 218,
+    "cheatsheet_key": "ledger",
+    "title": "Ledger",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ledger.md",
+    "last_updated": "",
+    "group_id": 16,
+    "group_name": "Ledger"
+  },
+  {
+    "id": 219,
+    "cheatsheet_key": "AppleScript",
+    "title": "AppleScript",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/applescript.md",
+    "last_updated": "",
+    "group_id": 17,
+    "group_name": "MacOS"
+  },
+  {
+    "id": 220,
+    "cheatsheet_key": "macos-mouse-acceleration",
+    "title": "MacOS mouse Acceleration",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/macos-mouse-acceleration.md",
+    "last_updated": "",
+    "group_id": 17,
+    "group_name": "MacOS"
+  },
+  {
+    "id": 221,
+    "cheatsheet_key": "osx",
+    "title": "OSX",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/osx.md",
+    "last_updated": "",
+    "group_id": 17,
+    "group_name": "MacOS"
+  },
+  {
+    "id": 223,
+    "cheatsheet_key": "emmet",
+    "title": "Emmet",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/emmet.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 224,
+    "cheatsheet_key": "haml",
+    "title": "HAML",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/haml.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 225,
+    "cheatsheet_key": "kramdown",
+    "title": "Kramdown",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/kramdown.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 226,
+    "cheatsheet_key": "markdown",
+    "title": "Markdown",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/markdown.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 227,
+    "cheatsheet_key": "rdoc",
+    "title": "RDoc",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rdoc.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 228,
+    "cheatsheet_key": "rst",
+    "title": "RST",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rst.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 229,
+    "cheatsheet_key": "textile",
+    "title": "Textile",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/textile.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 230,
+    "cheatsheet_key": "tomdoc",
+    "title": "Tom doc",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tomdoc.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 231,
+    "cheatsheet_key": "yaml",
+    "title": "YAML",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/yaml.md",
+    "last_updated": "",
+    "group_id": 18,
+    "group_name": "Markup"
+  },
+  {
+    "id": 232,
+    "cheatsheet_key": "nodejs-assert",
+    "title": "NodeJs Assert",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs-assert.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 233,
+    "cheatsheet_key": "nodejs-fs",
+    "title": "NodeJs FS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs-fs.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 234,
+    "cheatsheet_key": "nodejs-path",
+    "title": "NodeJs Path",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs-path.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 235,
+    "cheatsheet_key": "nodejs-process",
+    "title": "NodeJs Process",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs-process.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 236,
+    "cheatsheet_key": "nodejs-stream",
+    "title": "NodeJs Stream",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs-stream.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 237,
+    "cheatsheet_key": "nodejs",
+    "title": "NodeJs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nodejs.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 238,
+    "cheatsheet_key": "package-json",
+    "title": "PackageJson",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/package-json.md",
+    "last_updated": "",
+    "group_id": 19,
+    "group_name": "Node JS"
+  },
+  {
+    "id": 239,
+    "cheatsheet_key": "php",
+    "title": "PHP",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/php.md",
+    "last_updated": "",
+    "group_id": 20,
+    "group_name": "PHP"
+  },
+  {
+    "id": 240,
+    "cheatsheet_key": "Jinja",
+    "title": "Jinja",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/jinja.md",
+    "last_updated": "",
+    "group_id": 21,
+    "group_name": "Python"
+  },
+  {
+    "id": 241,
+    "cheatsheet_key": "Mako",
+    "title": "Mako",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/mako.md",
+    "last_updated": "",
+    "group_id": 21,
+    "group_name": "Python"
+  },
+  {
+    "id": 242,
+    "cheatsheet_key": "Python",
+    "title": "Python",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/python.md",
+    "last_updated": "",
+    "group_id": 21,
+    "group_name": "Python"
+  },
+  {
+    "id": 243,
+    "cheatsheet_key": "Rails",
+    "title": "Rails",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 244,
+    "cheatsheet_key": "rails-controllers",
+    "title": "Rails Controller",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-controllers.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 245,
+    "cheatsheet_key": "rails-forms",
+    "title": "Rails Forms",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-forms.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 246,
+    "cheatsheet_key": "rails-helpers",
+    "title": "Rails Helpers",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-helpers.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 247,
+    "cheatsheet_key": "rails-i18n",
+    "title": "Rails i!18n",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-i18n.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 248,
+    "cheatsheet_key": "rails_migrations",
+    "title": "Rails Migration",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-migrations.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 249,
+    "cheatsheet_key": "rails-models",
+    "title": "Rails Models",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-models.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 250,
+    "cheatsheet_key": "rails-plugins",
+    "title": "Rails Plugins",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-plugins.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 251,
+    "cheatsheet_key": "rails-routes",
+    "title": "Rails Routes",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-routes.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 252,
+    "cheatsheet_key": "rails-tricks",
+    "title": "Rails Tricks",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails-tricks.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 253,
+    "cheatsheet_key": "rails",
+    "title": "Rails",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rails.md",
+    "last_updated": "",
+    "group_id": 22,
+    "group_name": "Rails"
+  },
+  {
+    "id": 254,
+    "cheatsheet_key": "awesome-redux",
+    "title": "Awesome Redux",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/awesome-redux.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 255,
+    "cheatsheet_key": "enzyme",
+    "title": "Enzyme",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/enzyme.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 256,
+    "cheatsheet_key": "enzyme@2",
+    "title": "Enzyme@2",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/enzyme@2.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 257,
+    "cheatsheet_key": "flux",
+    "title": "Flux",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/flux.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 258,
+    "cheatsheet_key": "react-router",
+    "title": "React Router",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/react-router.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 259,
+    "cheatsheet_key": "react",
+    "title": "React",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/react.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 260,
+    "cheatsheet_key": "react@0.14",
+    "title": "React @0.14",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/react@0.14.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 261,
+    "cheatsheet_key": "redux",
+    "title": "Redux",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/redux.md",
+    "last_updated": "",
+    "group_id": 23,
+    "group_name": "React"
+  },
+  {
+    "id": 262,
+    "cheatsheet_key": "activeadmin",
+    "title": "Active Admin",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/activeadmin.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 263,
+    "cheatsheet_key": "bundler",
+    "title": "Bundler",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/bundler.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 264,
+    "cheatsheet_key": "goby",
+    "title": "Goby",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/goby.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 265,
+    "cheatsheet_key": "minimist-ruby",
+    "title": "Minimist Ruby",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/minimist-ruby.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 266,
+    "cheatsheet_key": "rake",
+    "title": "Rake",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rake.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 267,
+    "cheatsheet_key": "rbenv",
+    "title": "Rbenv",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rbenv.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 268,
+    "cheatsheet_key": "rspec-rails",
+    "title": "Rspec-rails",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rspec-rails.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 269,
+    "cheatsheet_key": "rspec",
+    "title": "Rspec",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rspec.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 270,
+    "cheatsheet_key": "ruby",
+    "title": "Ruby",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ruby.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 271,
+    "cheatsheet_key": "ruby21",
+    "title": "Ruby21",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ruby21.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 272,
+    "cheatsheet_key": "rubygems",
+    "title": "Ruby Gems",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rubygems.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 273,
+    "cheatsheet_key": "stimulus-reflex",
+    "title": "Stimulus Reflex",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/stimulus-reflex.md",
+    "last_updated": "",
+    "group_id": 24,
+    "group_name": "Ruby"
+  },
+  {
+    "id": 274,
+    "cheatsheet_key": "capybara",
+    "title": "Capybara",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/capybara.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 275,
+    "cheatsheet_key": "chunky_png",
+    "title": "Chunky PNG",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/chunky_png.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 276,
+    "cheatsheet_key": "do",
+    "title": "Do",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/do.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 277,
+    "cheatsheet_key": "factory_bot",
+    "title": "Factory Bot",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/factory_bot.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 278,
+    "cheatsheet_key": "ffaker",
+    "title": "Ffaker",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ffaker.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 279,
+    "cheatsheet_key": "machinist",
+    "title": "Machinist",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/machinist.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 280,
+    "cheatsheet_key": "meta-tags",
+    "title": "Meta Tags",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/meta-tags.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 281,
+    "cheatsheet_key": "pry",
+    "title": "Pry",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/pry.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 282,
+    "cheatsheet_key": "psdrb",
+    "title": "PSDrb",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/psdrb.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 283,
+    "cheatsheet_key": "rack-test",
+    "title": "Rack Test",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/rack-test.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 284,
+    "cheatsheet_key": "ronn",
+    "title": "Ronn",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ronn.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 285,
+    "cheatsheet_key": "sequel",
+    "title": "Sequel",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/sequel.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 286,
+    "cheatsheet_key": "slim",
+    "title": "Slim",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/slim.md",
+    "last_updated": "",
+    "group_id": 25,
+    "group_name": "Ruby libraries"
+  },
+  {
+    "id": 287,
+    "cheatsheet_key": "projectionist",
+    "title": "Projectionist",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/projectionist.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 288,
+    "cheatsheet_key": "tabular",
+    "title": "Tabular",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/tabular.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 289,
+    "cheatsheet_key": "vim-diff",
+    "title": "Vim Diff",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-diff.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 290,
+    "cheatsheet_key": "vim-digraphs",
+    "title": "Vim Digraphs",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-digraphs.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 291,
+    "cheatsheet_key": "vim-easyalign",
+    "title": "Vim EasyAlign",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-easyalign.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 292,
+    "cheatsheet_key": "vim-help",
+    "title": "Vim Help",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-help.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 293,
+    "cheatsheet_key": "vim-rails",
+    "title": "Vim Rails",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-rails.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 294,
+    "cheatsheet_key": "vim-unite",
+    "title": "Vim Unite",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim-unite.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 295,
+    "cheatsheet_key": "vim",
+    "title": "Vim",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vim.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 296,
+    "cheatsheet_key": "vimscript-functions",
+    "title": "Vimscript Functions",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vimscript-functions.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 297,
+    "cheatsheet_key": "vimscript-snippets",
+    "title": "Vimscript Snippets",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vimscript-snippets.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 298,
+    "cheatsheet_key": "vimscript",
+    "title": "Vimscript",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vimscript.md",
+    "last_updated": "",
+    "group_id": 26,
+    "group_name": "VIM"
+  },
+  {
+    "id": 299,
+    "cheatsheet_key": "cask_index",
+    "title": "Cask Index",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/cask-index.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 300,
+    "cheatsheet_key": "command-line",
+    "title": "Command Line",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/command_line.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 301,
+    "cheatsheet_key": "cordova",
+    "title": "Cordova",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/cordova.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 302,
+    "cheatsheet_key": "datetime",
+    "title": "Date Time",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/datetime.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 303,
+    "cheatsheet_key": "devise",
+    "title": "Devise",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/devise.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 304,
+    "cheatsheet_key": "divshot",
+    "title": "Divshot",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/divshot.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 305,
+    "cheatsheet_key": "figlet",
+    "title": "Figlet",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/figlet.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 306,
+    "cheatsheet_key": "firebase",
+    "title": "Firebase",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/firebase.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 307,
+    "cheatsheet_key": "firefox",
+    "title": "Firefox",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/firefox.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 308,
+    "cheatsheet_key": "freenode",
+    "title": "FreeNode",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/freenode.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 309,
+    "cheatsheet_key": "frequency-separation-retouching",
+    "title": "Frequency separation retouching",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/frequency-separation-retouching.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 310,
+    "cheatsheet_key": "google-analytics",
+    "title": "Google Analytics",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/google_analytics.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 311,
+    "cheatsheet_key": "google-webfonts",
+    "title": "Google WebFonts",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/google-webfonts.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 312,
+    "cheatsheet_key": "imagemagick",
+    "title": "ImageMagick",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/imagemagick.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 313,
+    "cheatsheet_key": "ios-provision",
+    "title": "iOS Provisioning",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ios-provision.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 314,
+    "cheatsheet_key": "less",
+    "title": "LESS",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/less.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 315,
+    "cheatsheet_key": "licenses",
+    "title": "Licenses",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/licenses.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 316,
+    "cheatsheet_key": "linux",
+    "title": "Linux",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/linux.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 317,
+    "cheatsheet_key": "lua",
+    "title": "Lua",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/lua.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 318,
+    "cheatsheet_key": "make-assets",
+    "title": "Make Assets",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/make-assets.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 319,
+    "cheatsheet_key": "nocode",
+    "title": "No Code",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/nocode.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 320,
+    "cheatsheet_key": "passenger",
+    "title": "Passengers",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/passenger.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 321,
+    "cheatsheet_key": "ph-food-delivery",
+    "title": "PH food delivery",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ph-food-delivery.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 322,
+    "cheatsheet_key": "plantuml",
+    "title": "PlantUML",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/plantuml.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 323,
+    "cheatsheet_key": "premailer",
+    "title": "Premailer",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/premailer.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 324,
+    "cheatsheet_key": "regexp",
+    "title": "Regexp",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/regexp.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 325,
+    "cheatsheet_key": "resolutions",
+    "title": "Resolutions",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/resolutions.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 327,
+    "cheatsheet_key": "semver",
+    "title": "Semver",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/semver.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 328,
+    "cheatsheet_key": "siege",
+    "title": "Siege",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/siege.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 329,
+    "cheatsheet_key": "simple-form",
+    "title": "Simple Form",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/simple_form.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 330,
+    "cheatsheet_key": "social-images",
+    "title": "Social Images",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/social-images.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 331,
+    "cheatsheet_key": "spreadsheet",
+    "title": "Spreadsheet",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/spreadsheet.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 332,
+    "cheatsheet_key": "strftime",
+    "title": "Strftime",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/strftime.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 333,
+    "cheatsheet_key": "ubuntu",
+    "title": "Ubuntu",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/ubuntu.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 334,
+    "cheatsheet_key": "unicode",
+    "title": "Unicode",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/unicode.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 335,
+    "cheatsheet_key": "vainglory",
+    "title": "Vainglory",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/vainglory.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 336,
+    "cheatsheet_key": "watchman",
+    "title": "Watchman",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/watchman.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  },
+  {
+    "id": 337,
+    "cheatsheet_key": "znc",
+    "title": "ZNC",
+    "md_path": "./FinalScript/CheatSheetsScripts/cheatSheets/mdFile/znc.md",
+    "last_updated": "",
+    "group_id": 27,
+    "group_name": "Others"
+  }
+]
